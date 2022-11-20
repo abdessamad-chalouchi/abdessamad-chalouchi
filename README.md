@@ -63,7 +63,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!---
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p> --->
+</p> 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+--->
 
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdessamad-chalouchi&show_icons=true&theme=radical) --->
 
