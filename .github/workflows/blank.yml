@@ -13,4 +13,4 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: 23df3c6e-2e17-41f4-bedc-d01716049fb5
-          GH_TOKEN: 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
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
