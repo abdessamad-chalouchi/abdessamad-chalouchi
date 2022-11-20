@@ -59,6 +59,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamad-chalouchi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<!---
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p> --->
+
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdessamad-chalouchi&show_icons=true&theme=radical) --->
 
 <!---
