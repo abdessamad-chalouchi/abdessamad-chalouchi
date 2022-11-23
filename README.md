@@ -61,4 +61,15 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 19 November 2022 - To: 22 November 2022
+
+Total Time: 5 hrs 5 mins
+
+XML    2 hrs 57 mins   >>>>>>>>>>>>>>-----------   57.86 %
+Java   2 hrs 8 mins    >>>>>>>>>>---------------   41.86 %
+CSS    0 secs          -------------------------   00.28 %
+```
+
 <!--END_SECTION:waka-->
