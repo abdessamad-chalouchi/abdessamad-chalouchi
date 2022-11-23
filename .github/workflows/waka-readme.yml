@@ -3,7 +3,7 @@ name: Waka-Readme
 on:
   schedule:
     # Runs every 4 hours
-    - cron: '* */4 * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
 
 jobs:
