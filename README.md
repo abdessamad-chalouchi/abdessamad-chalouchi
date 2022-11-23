@@ -62,26 +62,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <!--START_SECTION:waka-->
 
-```text
-From: 19 November 2022 - To: 21 November 2022
-
-Total Time: 1 hr 19 mins
-
-Java   1 hr 19 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-```
-
 <!--END_SECTION:waka-->
-
-<!---
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p> 
-![Jokes Card](https://readme-jokes.vercel.app/api)
---->
-
-<!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdessamad-chalouchi&show_icons=true&theme=radical) --->
-
-<!---
-abdessamad-chalouchi/abdessamad-chalouchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
