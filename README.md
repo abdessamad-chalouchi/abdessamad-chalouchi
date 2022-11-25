@@ -61,18 +61,31 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2010%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114%20Thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
 
 ```text
-From: 19 November 2022 - To: 24 November 2022
+💬 Programming Languages: 
+Java                     4 hrs 43 mins       ██████████████░░░░░░░░░░░   57.91% 
+XML                      2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.43% 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
+Properties               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
-Total Time: 8 hrs 10 mins
+🔥 Editors: 
+VS Code                  4 hrs 10 mins       ████████████░░░░░░░░░░░░░   51.11% 
+IntelliJ                 2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   34.42% 
+Android Studio           1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.47%
 
-Java                  4 hrs 43 mins   >>>>>>>>>>>>>>-----------   57.91 %
-XML                   2 hrs 58 mins   >>>>>>>>>----------------   36.43 %
-JavaScript            13 mins         >------------------------   02.73 %
-HTML                  7 mins          -------------------------   01.45 %
-Properties            2 mins          -------------------------   00.55 %
-HTTP Request          2 mins          -------------------------   00.51 %
+💻 Operating System: 
+Windows                  6 hrs 49 mins       █████████████████████░░░░   83.57% 
+Linux                    1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43%
+
 ```
 
+
+ Last Updated on 25/11/2022 13:36:03 UTC
 <!--END_SECTION:waka-->
