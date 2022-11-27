@@ -61,7 +61,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-114%20Thousand%20lines%20of%20code-blue)
 
@@ -87,5 +87,5 @@ Linux                    3 hrs 37 mins       █████░░░░░░�
 ```
 
 
- Last Updated on 27/11/2022 20:13:48 UTC
+ Last Updated on 27/11/2022 20:30:02 UTC
 <!--END_SECTION:waka-->
