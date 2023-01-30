@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://linkedin.com/in/abdessamad-chalouchi-049655205" target="blank">
+    <a href="https://www.linkedin.com/in/chalouchi/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdessamad-chalouchi" height="30" width="40" />
     </a>
     <a href="https://fb.com/profile.php?id=100085176870158" target="blank">
@@ -30,7 +30,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chalouchi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abdessamad-chalouchi-049655205)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chalouchi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chalouchi/)
 
 ---
 
