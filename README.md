@@ -61,9 +61,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2039%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-261%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-260.9%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -81,9 +81,8 @@ VS Code                  1 hr 20 mins        ████░░░░░░░�
 
 💻 Operating System: 
 Windows                  8 hrs 27 mins       █████████████████████████   100.00 % 
-
 ```
 
 
- Last Updated on 22/02/2023 17:08:17 UTC
+ Last Updated on 23/02/2023 00:58:11 UTC
 <!--END_SECTION:waka-->
