@@ -58,7 +58,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abdessamad-chalouchi&theme=neon-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
   
   ![LeetCode Stats](https://leetcode.card.workers.dev/abdessamad-chalouchi?theme=dark&font=baloo&extension=null)
 </div>
