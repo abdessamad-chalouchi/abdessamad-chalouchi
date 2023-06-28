@@ -90,3 +90,5 @@ Windows                  1 hr 50 mins        ███████████�
 
  Last Updated on 28/06/2023 01:53:14 UTC
 <!--END_SECTION:waka-->
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdessamad_chalouchi)](https://github.com/anuraghazra/github-readme-stats)
