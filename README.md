@@ -66,7 +66,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418.4%20thousand%20lines%20of%20code-blue)
 
@@ -74,20 +74,19 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 17 mins       ████████████████████████░   94.49 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Java                     1 hr 26 mins        █████████████████████████   98.39 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-IntelliJ                 4 hrs 17 mins       ████████████████████████░   94.49 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+IntelliJ                 1 hr 26 mins        █████████████████████████   98.39 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/09/2023 01:11:56 UTC
+ Last Updated on 19/09/2023 01:12:53 UTC
 <!--END_SECTION:waka-->
 
 
