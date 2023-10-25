@@ -66,29 +66,29 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%209%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-419.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-424.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 3 mins        ████████████░░░░░░░░░░░░░   46.62 % 
-GDScript                 2 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.43 % 
-Prolog                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-TSQL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+GDScript                 2 hrs 26 mins       █████████████░░░░░░░░░░░░   50.91 % 
+Python                   2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.72 % 
+Prolog                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+TSQL                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 48 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/10/2023 01:12:34 UTC
+ Last Updated on 25/10/2023 01:12:40 UTC
 <!--END_SECTION:waka-->
 
 
