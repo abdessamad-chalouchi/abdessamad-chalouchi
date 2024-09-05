@@ -66,7 +66,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -74,18 +74,18 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-Python                   6 mins              ██████████████░░░░░░░░░░░   54.88 % 
-CSV                      5 mins              ███████████░░░░░░░░░░░░░░   45.12 % 
+Python                   1 hr 24 mins        ███████████████░░░░░░░░░░   60.20 % 
+CSV                      55 mins             ██████████░░░░░░░░░░░░░░░   39.80 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/09/2024 01:37:09 UTC
+ Last Updated on 05/09/2024 01:37:03 UTC
 <!--END_SECTION:waka-->
 
 
