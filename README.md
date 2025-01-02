@@ -66,8 +66,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-871%20hrs%2012%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -84,7 +82,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/01/2025 01:50:03 UTC
+ Last Updated on 02/01/2025 01:41:45 UTC
 <!--END_SECTION:waka-->
 
 
