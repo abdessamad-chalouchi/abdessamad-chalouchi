@@ -61,7 +61,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamad-chalouchi&layout=compact&theme=dark)
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/d3f4u1t?theme=dark&font=Sorts%20Mill%20Goudy)
+![LeetCode Stats](https://leetcard.jacoblin.cool/d3f4u1t?theme=dark&font=Share%20Mill%20Goudy)
 
 </div>
 
