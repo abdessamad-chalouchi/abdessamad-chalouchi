@@ -74,21 +74,19 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ███████████████░░░░░░░░░░   60.08 % 
-HTML                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Python                   1 hr 22 mins        ███████████████████████░░   92.83 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/03/2026 17:20:44 UTC
+ Last Updated on 22/03/2026 17:20:26 UTC
 <!--END_SECTION:waka-->
 
 
