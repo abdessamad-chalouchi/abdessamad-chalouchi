@@ -74,19 +74,17 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 22 mins        ███████████████████████░░   92.83 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 22/03/2026 17:20:26 UTC
+ Last Updated on 23/03/2026 17:46:40 UTC
 <!--END_SECTION:waka-->
 
 
