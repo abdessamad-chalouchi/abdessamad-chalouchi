@@ -74,17 +74,18 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     6 mins              ██████████████░░░░░░░░░░░   56.75 % 
+CSS                      5 mins              ███████████░░░░░░░░░░░░░░   43.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/03/2026 17:53:14 UTC
+ Last Updated on 25/03/2026 17:52:55 UTC
 <!--END_SECTION:waka-->
 
 
