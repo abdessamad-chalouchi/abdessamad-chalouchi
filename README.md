@@ -74,21 +74,20 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-TypeScript               30 mins             █████████░░░░░░░░░░░░░░░░   35.78 % 
-TOML                     29 mins             █████████░░░░░░░░░░░░░░░░   34.60 % 
-Liquid                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-CSS                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               30 mins             ██████████░░░░░░░░░░░░░░░   41.83 % 
+TOML                     29 mins             ██████████░░░░░░░░░░░░░░░   40.45 % 
+Liquid                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Prisma                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 23 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/03/2026 17:52:30 UTC
+ Last Updated on 01/04/2026 17:44:43 UTC
 <!--END_SECTION:waka-->
 
 
