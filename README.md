@@ -74,20 +74,17 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-TypeScript               30 mins             ██████████░░░░░░░░░░░░░░░   41.83 % 
-TOML                     29 mins             ██████████░░░░░░░░░░░░░░░   40.45 % 
-Liquid                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Prisma                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/04/2026 17:24:59 UTC
+ Last Updated on 06/04/2026 17:39:32 UTC
 <!--END_SECTION:waka-->
 
 
