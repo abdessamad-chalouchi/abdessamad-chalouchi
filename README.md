@@ -74,17 +74,17 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 02/05/2026 17:39:41 UTC
+ Last Updated on 03/05/2026 17:41:24 UTC
 <!--END_SECTION:waka-->
 
 
