@@ -74,17 +74,21 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Docker                   22 mins             ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+YAML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Java Properties          13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Java                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Properties               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/05/2026 17:44:03 UTC
+ Last Updated on 10/05/2026 17:45:20 UTC
 <!--END_SECTION:waka-->
 
 
