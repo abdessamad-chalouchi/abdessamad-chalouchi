@@ -66,29 +66,30 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C143%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C144%20hrs%2022%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.81%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Docker                   22 mins             ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-YAML                     22 mins             ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Java Properties          13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-Java                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Properties               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+YAML                     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   37.79 % 
+textmate                 28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Docker                   25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Java Properties          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 20 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            3 hrs 30 mins       █████████████████████████   98.49 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/05/2026 17:45:20 UTC
+ Last Updated on 11/05/2026 18:53:33 UTC
 <!--END_SECTION:waka-->
 
 
