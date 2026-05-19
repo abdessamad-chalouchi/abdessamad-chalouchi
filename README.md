@@ -66,30 +66,12 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C150%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C153%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.81%20million%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-YAML                     2 hrs 23 mins       █████████████░░░░░░░░░░░░   50.83 % 
-textmate                 39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-TypeScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Java                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-
-🔥 Editors: 
-IntelliJ IDEA            3 hrs 53 mins       █████████████████████░░░░   82.75 % 
-VS Code                  48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-
-💻 Operating System: 
-Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/05/2026 18:29:09 UTC
+ Last Updated on 19/05/2026 18:56:28 UTC
 <!--END_SECTION:waka-->
 
 
