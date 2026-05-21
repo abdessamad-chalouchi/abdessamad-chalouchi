@@ -74,22 +74,22 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 26 mins       ██████████████░░░░░░░░░░░   56.22 % 
-YAML                     57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Java                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-textmate                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+TypeScript               2 hrs 26 mins       ██████████████░░░░░░░░░░░   57.92 % 
+YAML                     57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+textmate                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Image (svg)              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       ███████████████████░░░░░░   75.85 % 
-IntelliJ IDEA            1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+VS Code                  3 hrs 17 mins       ████████████████████░░░░░   78.13 % 
+IntelliJ IDEA            55 mins             █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
 
 💻 Operating System: 
-Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 19:16:51 UTC
+ Last Updated on 21/05/2026 18:55:51 UTC
 <!--END_SECTION:waka-->
 
 
