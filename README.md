@@ -74,21 +74,21 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        ██████████████████░░░░░░░   71.26 % 
-JSON                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Image (svg)              8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+TypeScript               4 hrs 55 mins       ████████████████████████░   94.02 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+SSH Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 32 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/05/2026 17:55:27 UTC
+ Last Updated on 25/05/2026 18:24:11 UTC
 <!--END_SECTION:waka-->
 
 
