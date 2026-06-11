@@ -74,22 +74,21 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-Bash                     1 min               ██████████████████████░░░   88.58 % 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Markdown                 0 secs              ████████████░░░░░░░░░░░░░   47.56 % 
+YAML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Env File                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Java                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   98.68 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 19:31:47 UTC
+ Last Updated on 11/06/2026 19:30:40 UTC
 <!--END_SECTION:waka-->
 
 
