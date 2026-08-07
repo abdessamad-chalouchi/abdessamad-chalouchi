@@ -66,28 +66,19 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C150%20hrs%2037%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%208%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              ████████████████████░░░░░   79.46 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Docker                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              ████████████████████████░   96.51 % 
-IntelliJ IDEA            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +88,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/08/2026 18:17:36 UTC
+ Last Updated on 07/08/2026 17:42:38 UTC
 <!--END_SECTION:waka-->
 
 
