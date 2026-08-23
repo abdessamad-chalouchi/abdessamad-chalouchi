@@ -76,16 +76,13 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████░░░░░░░░   69.62 % 
-Java                     0 secs              ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +92,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/08/2026 17:14:15 UTC
+ Last Updated on 23/08/2026 17:15:42 UTC
 <!--END_SECTION:waka-->
 
 
