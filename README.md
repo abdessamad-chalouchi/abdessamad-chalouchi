@@ -7,7 +7,7 @@
     <a href="https://fb.com/profile.php?id=100085176870158" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdessamad chalouchi" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/abdo.chalouchi" target="blank">
+    <a href="https://instagram.com/abdee.ssamad_" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdo.chalouchi" height="30" width="40" />
     </a>
   </div>
